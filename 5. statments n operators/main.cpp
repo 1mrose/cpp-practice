@@ -8,7 +8,7 @@
 	You may assume that the number of cents entered is greater than or equal to zero
     
 	The program should then display how to provide that change to the user.
-	
+	 
 	In the US:
 		1 dollar is 100 cents
 		1 quarter is 25 cents
