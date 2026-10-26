@@ -5,8 +5,8 @@
 /* 
     Frank's Carpet Cleaning Service
     Charges:
-        $25 per small room
-        $35 per large room
+     $25 per small room
+     $35 per large room
     Sales tax rate is 6%
     Estimates are valid for 30 days
 
