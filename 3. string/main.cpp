@@ -4,7 +4,7 @@
 
 /*
 A simple and very old method of sending secret messages is the substitution cipher.
-You might have used this cipher with your friends when you were a kid.
+You might have used this cipher with your friends when you were a kid. 
 Basically, each letter of the alphabet gets replaced by another letter of the alphabet.
 For example, every 'a' get replaced with an 'X', and every 'b' gets replaced with a 'Z', etc.
 
